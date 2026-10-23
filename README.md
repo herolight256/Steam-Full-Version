@@ -240,4 +240,4 @@ This repository serves as the official landing page for Steam. The software is d
 **Get the most recent version of Steam today!**
 
 ---
-**Last updated:** 2026-10-23 17:59:02 UTC
+**Last updated:** 2026-10-23 20:58:03 UTC
